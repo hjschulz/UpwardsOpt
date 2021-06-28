@@ -7,8 +7,7 @@ Present/erm2-nwe9
 Apr. 21 2020. Source: https://ourworldindata.org/coronavirus-source-data
 - __hotel__ (n = 334;m = 115): Weekly hotel bookings by travel agent between Jul. 2015 and Sep. 2017.
 Source: https://www.kaggle.com/lucacosseddu/hotelbookings-cleaned
-- __messages__ (n = 604;m = 135): Monthly message count per Facebook contact between May 2011 and Sep.
-2019. Source: https://github.com/steffen555/UpwardsOpt/blob/main/datasets/messages.csv
+- __messages__ (n = 604;m = 135): Monthly message count per Facebook contact between May 2011 and Sep. 2019. Source: https://github.com/steffen555/UpwardsOpt/blob/main/datasets/messages.csv
 - __liquor__ (n = 695;m = 240): Weekly liquor sales revenue in Iowa by liquor brand between Jan. 2012 and
 Aug. 2016. Source: https://www.kaggle.com/residentmario/iowa-liquor-sales
 - __movies__ (n = 881; n = 51): Weekly US box office revenues by movie between Jan. and Dec. 2019. Source:
